@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" P ", "GDG", " P "],
+  "key": {
+    "P": { "item": "minecraft:poppy" },
+    "G": { "item": "minecraft:gold_ingot" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": { "id": "companionmod:heart_charm", "count": 1 }
+}
